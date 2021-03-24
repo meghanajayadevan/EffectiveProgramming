@@ -21,7 +21,7 @@ After activating my environment, to execute the decision tree:
 
 
 ```python
-cd EPP/decisiontree
+cd EffectiveProgramming/decisiontree
 
 python3 decision_tree.py
 
